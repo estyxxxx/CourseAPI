@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\serverproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\serverproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\angularproject\\courseapi\\serverproject\\serverproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AFCD5D98-F1CD-4AFC-84A1-17288645C3A6}|serverProject\\serverProject.csproj|solutionrelative:serverproject\\serverproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "serverProject\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\Course.cs",
+              "RelativeToolTip": "serverProject\\Models\\Course.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:54.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "serverProject\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "serverProject\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:55.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "serverProject\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "serverProject\\Controllers\\LecturerController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwAwAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:56.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "serverProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "serverProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:56.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "serverProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\User.cs",
+              "RelativeToolTip": "serverProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:56.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Program.cs",
+              "RelativeDocumentMoniker": "serverProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Program.cs",
+              "RelativeToolTip": "serverProject\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "serverProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "serverProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:56.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\appsettings.json",
+              "RelativeDocumentMoniker": "serverProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\appsettings.json",
+              "RelativeToolTip": "serverProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T15:20:54.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "serverProject",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\serverProject.csproj",
+              "RelativeDocumentMoniker": "serverProject\\serverProject.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\serverProject.csproj",
+              "RelativeToolTip": "serverProject\\serverProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T15:20:53.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "serverProject\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\Lecturer.cs",
+              "RelativeToolTip": "serverProject\\Models\\Lecturer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:56.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "serverProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\Models\\Category.cs",
+              "RelativeToolTip": "serverProject\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:20:56.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "serverProject.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\serverProject.csproj",
+              "RelativeDocumentMoniker": "serverProject\\serverProject.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\AngularProject\\CourseAPI\\serverProject\\serverProject.csproj",
+              "RelativeToolTip": "serverProject\\serverProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T15:20:56.446Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
